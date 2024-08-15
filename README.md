@@ -12,9 +12,8 @@ This project involves the development of a reliable autonomous navigation system
 - **Frameworks/Tools**: ROS2, Pixy Cam
 
 ## Setup Instructions
-1. Clone the repository: `git clone https://github.com/Devam-032/ROS2-Autonomous`
-2. Install the necessary dependencies: `pip install -r requirements.txt`
-3. Run the script: `python3 navigate.py`
+1. Clone the repository: `git clone https://github.com/Devam-032/ros2_auto`
+2. Run the script: `python3 `
 
 ## Documentation
 Refer to the [documentation](link_to_docs) for setup, configuration, and usage guidelines.
