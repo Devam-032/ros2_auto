@@ -13,7 +13,7 @@ This project involves the development of a reliable autonomous navigation system
 
 ## Setup Instructions
 1. Clone the repository: `git clone https://github.com/Devam-032/ros2_auto`
-2. Run the script: `python3 `
+2. Run the script: `python3 aim_line_follow.py`
 
 ## Documentation
 Refer to the [documentation](link_to_docs) for setup, configuration, and usage guidelines.
