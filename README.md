@@ -16,7 +16,7 @@ This project involves the development of a reliable autonomous navigation system
 2. Run the script: `python3 aim_line_follow.py`
 
 ## Documentation
-Refer to the [documentation](link_to_docs) for setup, configuration, and usage guidelines.
+Refer to the [documentation](link_to_docs:https://drive.google.com/file/d/1xRJxbgFtd2BRwG8qlNg3kLUpPUzyKVGV/view?usp=sharing) for setup, configuration, and usage guidelines.
 
 ## Contributing
 Contributions are welcome! Please read the [contributing guidelines](link_to_contributing.md) for more information.
